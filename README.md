@@ -18,11 +18,10 @@
 ---
 
 ### 📄 About Me
-
-🎓 I'm currently pursuing a BSCS degree at SZABIST, Clifton, Karachi.  
-💻 I have experience building websites like blogs, product-based sites, and e-commerce platforms.  
-🧠 Skilled in frontend technologies and have a basic understanding of backend development and programming.  
-🚀 I'm eager to grow professionally in a software house or company to polish my skills.
+🎓 I'm currently pursuing a BSCS degree at SZABIST, Clifton, Karachi.
+💻 I have experience building websites like blogs, product-based sites, and e-commerce platforms.
+🚀 I’m currently learning MERN Stack Development and aiming to start my career as a job-ready MERN Stack Developer soon.
+🌟 Eager to grow professionally in a software house or company to polish my skills and contribute effectively.
 
 ---
 
