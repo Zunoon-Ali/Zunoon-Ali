@@ -15,7 +15,7 @@
 - 📫 Reach me at **zunnoon2006@gmail.com**  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/zunoon-ali-377929253/)
 - 🔗[📄 View My Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/ZUNOON-ALI-RESUME.pdf)
-- 🔗[Fiverr Profile]: (https://www.fiverr.com/s/6Y3bbrN)
+- 🔗[Fiverr Profile]: (https://www.fiverr.com/zunoonali2006?public_mode=true)
 - 🔗[Instagram Profile]: (https://www.instagram.com/zunoon_pirzada/)
 ---
 
