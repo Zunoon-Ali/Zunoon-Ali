@@ -4,10 +4,17 @@
 <h3 align="center">Passionate Front-End Developer | Karachi, Pakistan | HTML, CSS, React, Bootstrap, Tailwind CSS</h3>
 
 <p align="center">
-  🔗 [🌐 Portfolio Website](https://portfolio-zunoon-ali.netlify.app) | 
-  🔗 [LinkedIn](https://www.linkedin.com/in/zunoon-ali-377929253/) |
+  🔗 [🌐 Portfolio Website](https://portfolio-zunoon-ali.netlify.app)
+</p>
+
+<p align="center">
+  🔗 [LinkedIn](https://www.linkedin.com/in/zunoon-ali-377929253/)
+</p>
+
+<p align="center">
   📄 [Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/ZUNOON-ALI-RESUME.pdf)
 </p>
+
 
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" align="right" style="max-width: 100%;" />
 
@@ -105,3 +112,12 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunoon-ali&" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=onedark" alt="GitHub Trophies" />
+</p>
+
