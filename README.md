@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📄 [Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Muhammad-Zunoon-Ali-Frontend-Developer-Resume.png)
+  📄 [Resume]([https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Muhammad-Zunoon-Ali-Frontend-Developer-Resume.png)
 </p>
 
 
