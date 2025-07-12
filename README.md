@@ -26,7 +26,7 @@
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React**  
 - 📫 Reach me at **zunnoon2006@gmail.com** | **bscs2312405@szabist.pk**  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/zunoon-ali-377929253/)
-- 🔗 [📄 View My Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/ZUNOON-ALI-RESUME.pdf)
+- 🔗 [📄 View My Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Muhammad-Zunoon-Ali-Frontend-Developer-Resume.png)
 - 🔗 [Fiverr Profile](https://www.fiverr.com/zunoonali2006?public_mode=true)
 - 🔗 [Instagram Profile](https://www.instagram.com/zunoon_pirzada/)
 - 🔗 [Portfolio Website](https://portfolio-zunoon-ali.netlify.app)
