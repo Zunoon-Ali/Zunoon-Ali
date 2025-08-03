@@ -30,7 +30,7 @@
 - 🔗 [📄 View My Educational Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Muhammad-Zunoon-Ali-Educational-Resume.pdf)
 - 🔗 [Fiverr Profile](https://www.fiverr.com/zunoonali2006?public_mode=true)
 - 🔗 [Instagram Profile](https://www.instagram.com/zunoon_pirzada/)
-- 🔗 [Portfolio Website](https://portfolio-zunoon-alii.netlify.app/)
+- 🔗 [Portfolio Website](https://portfolio-zunoon-ali.netlify.app/)
 
 ---
 
