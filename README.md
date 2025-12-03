@@ -58,12 +58,13 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=default" />
+  <img height="160" src="https://stats.dooboo.io/api/github-stats?login=zunoon-ali" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=default" />
+  <img height="160" src="https://stats.dooboo.io/api/github-trophies?login=zunoon-ali" />
 </p>
+
 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=zunoon-ali&theme=default" />
