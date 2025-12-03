@@ -55,26 +55,24 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 
 ---
 
+---
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=default&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=default&hide_border=false" />
-  <img src="https://streak-stats.demolab.com?user=zunoon-ali&theme=default&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Zunoon Ali GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=dark&hide_border=false" alt="Zunoon Ali Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zunoon-ali&theme=dark&hide_border=false" alt="Zunoon Ali GitHub Streak" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=zunoon-ali" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zunoon-ali&theme=default" />
-</p>
-
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=flat&no-frame=false&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=flat&no-frame=false&margin-w=10" alt="Zunoon Ali GitHub Trophies" />
 </p>
