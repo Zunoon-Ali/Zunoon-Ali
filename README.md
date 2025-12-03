@@ -53,22 +53,7 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,laravel,python,github,git" />
 </p>
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <!-- Main stats -->
-  ![Zunoon Ali GitHub Stats](https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=dark&hide_border=false&count_private=true)
-  
-  <!-- Top languages -->
-  ![Zunoon Ali Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=dark&hide_border=false)
-  
-  <!-- Streak stats -->
-  ![Zunoon Ali GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zunoon-ali&theme=dark&hide_border=false)
-</p>
-
----
 
 ## Developer Achievements
 
