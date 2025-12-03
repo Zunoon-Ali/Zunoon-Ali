@@ -57,21 +57,20 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 
 ## GitHub Stats
 
-Zunoon Ali GitHub Stats
-
-Zunoon Ali Top Languages
-
-Zunoon Ali GitHub Streak
+<p align="center">
+  <!-- Main stats -->
+  ![Zunoon Ali GitHub Stats](https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=dark&hide_border=false&count_private=true)
+  
+  <!-- Top languages -->
+  ![Zunoon Ali Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=dark&hide_border=false)
+  
+  <!-- Streak stats -->
+  ![Zunoon Ali GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zunoon-ali&theme=dark&hide_border=false)
+</p>
 
 ---
 
 ## Developer Achievements
-
-Zunoon Ali GitHub Trophies
-
-
-
-## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=flat&no-frame=false&margin-w=10" alt="Zunoon Ali GitHub Trophies" />
