@@ -64,6 +64,24 @@ I'm a Full Stack Developer specializing in **MERN, Laravel, and modern JavaScrip
 </div>
 
 ---
+---
+## GitHub Stats
+
+<p align="center">
+  <!-- Main stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zunoon-Ali&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Zunoon Ali GitHub Stats" />
+  
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunoon-Ali&layout=compact&theme=dark&hide_border=false" alt="Zunoon Ali Top Languages" />
+</p>
+
+---
+
+## 🏆 Developer Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zunoon-Ali&theme=flat&no-frame=false&margin-w=10" alt="Zunoon Ali GitHub Trophies" />
+</p>
 
 ## 🏆 Developer Achievements
 
