@@ -40,7 +40,7 @@ REST API Development, MVC Architecture, Git and GitHub Workflow, Clean Code Prac
 - GitHub Profile: https://github.com/Zunoon-Ali  
 - Portfolio Website: https://portfolio-zunoon-ali.netlify.app  
 - LinkedIn: https://www.linkedin.com/in/zunoon-ali-377929253/  
-- Resume (Professional): [View Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Muhammad-Zunoon-Ali-Frontend-Developer-Resume.png)  
+- Resume (Professional): [View Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/MERN-Resume-Zunoon-2025.pdf)  
 - Resume (Educational): [View Resume](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Muhammad-Zunoon-Ali-Educational-Resume.pdf)  
 - Fiverr: https://www.fiverr.com/zunoonali2006  
 - Instagram: https://www.instagram.com/zunoon_pirzada/
