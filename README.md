@@ -60,13 +60,22 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Zunoon Ali GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=dark&hide_border=false" alt="Zunoon Ali Top Languages" />
+  ![Zunoon Ali GitHub Stats](https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=dark&hide_border=false&count_private=true)
+  
+  ![Zunoon Ali Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=dark&hide_border=false)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zunoon-ali&theme=dark&hide_border=false" alt="Zunoon Ali GitHub Streak" />
+  ![Zunoon Ali GitHub Streak](https://streak-stats.demolab.com?user=zunoon-ali&theme=dark&hide_border=false)
+
+  </p>
+
+---
+
+## Developer Status
+
+<p align="center">
+  ![Zunoon Ali GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=flat&no-frame=false&margin-w=10)
 </p>
 
 ---
