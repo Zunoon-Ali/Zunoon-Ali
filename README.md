@@ -1,4 +1,4 @@
-![banner](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/bannerGif.gif)
+![banner](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Mern-2025-banner.gif)
 
 <h1 align="center">Muhammad Zunoon Ali</h1>
 <h3 align="center">Full Stack Developer | MERN | Laravel | Next.js | Karachi, Pakistan</h3>
