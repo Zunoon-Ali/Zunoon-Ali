@@ -67,12 +67,11 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 
 <p align="center">
   ![Zunoon Ali GitHub Streak](https://streak-stats.demolab.com?user=zunoon-ali&theme=dark&hide_border=false)
-
-  </p>
+</p>
 
 ---
 
-## Developer Status
+## Developer Achievements
 
 <p align="center">
   ![Zunoon Ali GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=flat&no-frame=false&margin-w=10)
