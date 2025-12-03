@@ -1,8 +1,4 @@
-<!-- HEADER -->
-
-<p align="center">
-  <img src="https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Mern-2025-banner.gif" alt="banner" width="80%"/>
-</p>
+![banner](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Mern-2025-banner.gif)
 
 <h1 align="center">Muhammad Zunoon Ali</h1>
 <h3 align="center">Full Stack Developer | MERN | Laravel | Next.js | Karachi, Pakistan</h3>
@@ -13,89 +9,55 @@
   <a href="mailto:zunnoon2006@gmail.com">Email</a>
 </p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/demo?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=700&height=50&lines=Hey,+I'm+Zunoon+Ali!;Full+Stack+Developer;MERN+|+Laravel+|+Next.js" alt="Typing-SVG"/>
-  </a>
-</div>
+---
 
-<div align="center">
-  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=4&section=header&render"/>
-</div>
+## About Me
 
-<!-- ABOUT ME -->
+I am a Full Stack Developer specializing in MERN, Laravel, and modern JavaScript frameworks. I build clean, scalable, and production-ready web applications. My experience includes API development, backend logic, authentication systems, database design, and responsive UI engineering.
 
-## 👋 About Me
-
-I'm a Full Stack Developer specializing in **MERN, Laravel, and modern JavaScript frameworks**. I build **clean, scalable, production-ready web apps**.  
-
-🎓 BS Computer Science @ SZABIST  
-💼 Passionate about building projects, learning fast, and coding with best practices  
+I am pursuing BS Computer Science at SZABIST and actively working on real-world projects. I learn fast, work hard, and aim to deliver reliable and maintainable solutions with clean engineering practices.
 
 ---
 
-<!-- SKILLS -->
+## Skills and Technologies
 
-## 🛠️ Skills
+### Frontend
+HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Bootstrap
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,laravel,php,git,github,tailwind,bootstrap" />
+### Backend
+Node.js • Express.js • PHP • Laravel • Python (Learning)
+
+### Databases
+MongoDB • PostgreSQL • MySQL
+
+### Other Skills
+REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practices
+
+---
+
+## Featured Links
+
+- GitHub: https://github.com/Zunoon-Ali  
+- Portfolio: https://portfolio-zunoon-ali.netlify.app  
+- LinkedIn: https://www.linkedin.com/in/zunoon-ali-377929253/  
+- Resume (Professional): [View](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/MERN-Resume-Zunoon-2025.pdf)  
+- Resume (Educational): [View](https://github.com/Zunoon-Ali/Zunoon-Ali/blob/main/Muhammad-Zunoon-Ali-Educational-Resume.pdf)  
+- Fiverr: https://www.fiverr.com/zunoonali2006  
+- Instagram: https://www.instagram.com/zunoon_pirzada/  
+
+---
+
+## Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,laravel,python,github,git" />
 </p>
 
 ---
 
-<!-- GITHUB STATS -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Zunoon-Ali/">
-    <img src="https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=dark&hide_border=false&count_private=true" width="45%" alt="Zunoon Ali GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Zunoon-Ali/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&langs_count=10&theme=dark&hide_border=false" width="35%" alt="Zunoon Ali Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Zunoon-Ali/">
-    <img src="https://streak-stats.demolab.com?user=zunoon-ali&theme=dark&hide_border=false&background=0E1118&ring=FA3E3E&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF" width="45%" alt="Zunoon Ali Streak Stats"/>
-  </a>
-</div>
-
----
----
-## GitHub Stats
+## Developer Achievements
 
 <p align="center">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zunoon-Ali&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Zunoon Ali GitHub Stats" />
-  
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunoon-Ali&layout=compact&theme=dark&hide_border=false" alt="Zunoon Ali Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=flat&no-frame=false&margin-w=10" alt="Zunoon Ali GitHub Trophies" />
 </p>
-
----
-
-## 🏆 Developer Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zunoon-Ali&theme=flat&no-frame=false&margin-w=10" alt="Zunoon Ali GitHub Trophies" />
-</p>
-
-## 🏆 Developer Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=flat&no-frame=false&margin-w=10" alt="Zunoon Ali GitHub Trophies"/>
-</p>
-
----
-
-## 🔗 Links
-
-- Portfolio: [portfolio-zunoon-ali.netlify.app](https://portfolio-zunoon-ali.netlify.app)  
-- GitHub: [github.com/Zunoon-Ali](https://github.com/Zunoon-Ali)  
-- LinkedIn: [linkedin.com/in/zunoon-ali-377929253](https://www.linkedin.com/in/zunoon-ali-377929253/)  
-- Fiverr: [fiverr.com/zunoonali2006](https://www.fiverr.com/zunoonali2006)  
-- Instagram: [instagram.com/zunoon_pirzada](https://www.instagram.com/zunoon_pirzada/)  
-
