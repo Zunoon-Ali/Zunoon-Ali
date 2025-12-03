@@ -57,28 +57,21 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 
 ## GitHub Stats
 
-<div align="center">
-
-<!-- MAIN STATS -->
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=default&hide_border=false" />
-
-<!-- TOP LANGUAGES -->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=default&hide_border=false" />
-
-<!-- STREAK -->
-<img height="150" src="https://streak-stats.demolab.com?user=zunoon-ali&theme=default&hide_border=false" />
-
 <p align="center">
-  <img height="160" src="https://stats.dooboo.io/api/github-stats?login=zunoon-ali" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zunoon-ali&show_icons=true&theme=default&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunoon-ali&layout=compact&theme=default&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=zunoon-ali&theme=default&hide_border=false" />
 </p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=zunoon-ali&theme=default" />
-</p>
-
-</div>
 
 ---
+
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=zunoon-ali" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zunoon-ali&theme=default" />
+</p>
 
 ## GitHub Trophies
 
