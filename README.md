@@ -54,7 +54,7 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 </p>
 
 ---
-
+ <img src="http://camo.githubusercontent.com/95e423b7bcdce82839f29648ac70ff26ecbc4b47e30bb15f7bb7b6a95e67a4c0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d617a6d656572736861682d646576267468656d653d746f6b796f6e69676874">
 
 ## Developer Achievements
 
