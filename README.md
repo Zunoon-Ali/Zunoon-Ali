@@ -61,10 +61,10 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zunoon-Ali&theme=tokyonight" />
 </p>
----
+
 
 ## Developer Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=flat&no-frame=false&margin-w=10" alt="Zunoon Ali GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zunoon-Ali&theme=flat&no-frame=false&margin-w=10" alt="Zunoon Ali GitHub Trophies" />
 </p>
