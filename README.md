@@ -66,7 +66,8 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 ## Developer Achievements
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=zunoon-ali&theme=tokyonight&no-frame=true&no-bg=true" />
+ <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=zunoon-ali&theme=tokyonight&no-frame=true&no-bg=true" />
+
 </p>
 
 
