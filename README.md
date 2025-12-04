@@ -55,19 +55,16 @@ REST APIs • MVC Architecture • Git and GitHub Workflow • Clean Code Practi
 
 ---
 ---
-
 ## Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zunoon-Ali&theme=tokyonight" />
 </p>
 
-
 ## Developer Achievements
 
 <p align="center">
- <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=zunoon-ali&theme=tokyonight&no-frame=true&no-bg=true" />
-
+  <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=Zunoon-Ali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 
